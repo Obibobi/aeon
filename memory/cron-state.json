@@ -1,12 +1,12 @@
 {
   "heartbeat": {
     "last_dispatch": "2026-10-20T12:07:33Z",
-    "last_status": "dispatched",
-    "last_failed": "2026-10-19T14:01:18Z",
-    "total_runs": 17,
+    "last_status": "failed",
+    "last_failed": "2026-10-20T12:08:01Z",
+    "total_runs": 18,
     "total_successes": 0,
-    "total_failures": 17,
-    "consecutive_failures": 17,
+    "total_failures": 18,
+    "consecutive_failures": 18,
     "success_rate": 0,
     "last_error": "},\"is_error\":true,\"num_turns\":1,\"subtype\":\"success\",\"api_error_status\":402,\"result\":\"API Error: 402 This request requires more credits, or fewer max_tokens. You requested up to 64000 tokens, but can o"
   }
